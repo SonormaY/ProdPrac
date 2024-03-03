@@ -1,0 +1,14 @@
+/home/sonorma/Documents/Study/ProdPrac/Task1/bin/Debug/net8.0/Task1
+/home/sonorma/Documents/Study/ProdPrac/Task1/bin/Debug/net8.0/Task1.deps.json
+/home/sonorma/Documents/Study/ProdPrac/Task1/bin/Debug/net8.0/Task1.runtimeconfig.json
+/home/sonorma/Documents/Study/ProdPrac/Task1/bin/Debug/net8.0/Task1.dll
+/home/sonorma/Documents/Study/ProdPrac/Task1/bin/Debug/net8.0/Task1.pdb
+/home/sonorma/Documents/Study/ProdPrac/Task1/obj/Debug/net8.0/Task1.GeneratedMSBuildEditorConfig.editorconfig
+/home/sonorma/Documents/Study/ProdPrac/Task1/obj/Debug/net8.0/Task1.AssemblyInfoInputs.cache
+/home/sonorma/Documents/Study/ProdPrac/Task1/obj/Debug/net8.0/Task1.AssemblyInfo.cs
+/home/sonorma/Documents/Study/ProdPrac/Task1/obj/Debug/net8.0/Task1.csproj.CoreCompileInputs.cache
+/home/sonorma/Documents/Study/ProdPrac/Task1/obj/Debug/net8.0/Task1.dll
+/home/sonorma/Documents/Study/ProdPrac/Task1/obj/Debug/net8.0/refint/Task1.dll
+/home/sonorma/Documents/Study/ProdPrac/Task1/obj/Debug/net8.0/Task1.pdb
+/home/sonorma/Documents/Study/ProdPrac/Task1/obj/Debug/net8.0/Task1.genruntimeconfig.cache
+/home/sonorma/Documents/Study/ProdPrac/Task1/obj/Debug/net8.0/ref/Task1.dll
