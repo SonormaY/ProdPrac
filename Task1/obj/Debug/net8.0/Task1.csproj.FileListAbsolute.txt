@@ -12,3 +12,4 @@
 /home/sonorma/Documents/Study/ProdPrac/Task1/obj/Debug/net8.0/Task1.pdb
 /home/sonorma/Documents/Study/ProdPrac/Task1/obj/Debug/net8.0/Task1.genruntimeconfig.cache
 /home/sonorma/Documents/Study/ProdPrac/Task1/obj/Debug/net8.0/ref/Task1.dll
+/home/sonorma/Documents/Study/ProdPrac/Task1/obj/Debug/net8.0/Task1.sourcelink.json
