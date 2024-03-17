@@ -3,10 +3,11 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+// Реалізувати інтенрфейс IComparable<Residental> для класу Residental. Порівнювати об'єкти за ціною.
 
 namespace Task2
 {
-    sealed class Residental : House
+    sealed class Residental : House, IComparable<Residental>
     {
         public int Rooms { get; set; }
         public int Residents { get; set; }
@@ -27,6 +28,10 @@ namespace Task2
         public override string ToString()
         {
             return base.ToString() + $", Rooms: {Rooms}, Residents: {Residents}, Balcony: {Balcony}, Elevator: {Elevator}";
+        }
+        public int CompareTo(Residental other)
+        {
+            return this.Price.CompareTo(other.Price);
         }
     }
 }

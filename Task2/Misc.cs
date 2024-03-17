@@ -25,5 +25,15 @@ namespace Task2
                 }
             }
         }
+        public static void WriteToFile(string fileName, List<House> houses)
+        {
+            using (StreamWriter sw = new StreamWriter(fileName))
+            {
+                foreach (House house in houses)
+                {
+                    sw.WriteLine(house.ToString());
+                }
+            }
+        }
     }
 }
