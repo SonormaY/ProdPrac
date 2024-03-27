@@ -4,7 +4,7 @@ namespace Task3
 {
     class ShipCollection : IEnumerable<Ship>
     {
-        private List<Ship> ships = new List<Ship>();
+        private readonly List<Ship> ships = new List<Ship>();
         public void Add(Ship ship)
         {
             ships.Add(ship);
@@ -27,11 +27,11 @@ namespace Task3
         }
         public Ship FindByName(string name)
         {
-            return ships.Find(ship => ship.Name.ToLower().Contains(name)) ?? new Ship("Not found", "Not found", 0);
+            return ships.Find(ship => ship.Name.ToLower().Contains(name.ToLower())) ?? new Ship("Not found", "Not found", 0);
         }
         public Ship FindByPort(string port)
         {
-            return ships.Find(ship => ship.Port.ToLower().Contains(port)) ?? new Ship("Not found", "Not found", 0);
+            return ships.Find(ship => ship.Port.ToLower().Contains(port.ToLower())) ?? new Ship("Not found", "Not found", 0);
         }
         public Ship FindByTonnage(int tonnage)
         {
