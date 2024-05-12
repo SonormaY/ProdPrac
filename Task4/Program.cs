@@ -9,12 +9,12 @@ class Program
     {
         Console.Clear();
         // Setups
-        int[] array = new int[10];
-        Random random = new Random();
-        array = Enumerable.Range(1, array.Length)
-            .Select(_ => random.Next(1, 10))
-            .ToArray();
-        Console.WriteLine("Initial array: " + string.Join(" ", array));
+        int[] array = {1,1,1,1,3,1,1,1,1};
+        // Random random = new Random();
+        // array = Enumerable.Range(1, array.Length)
+        //     .Select(_ => random.Next(1, 10))
+        //     .ToArray();
+        // Console.WriteLine("Initial array: " + string.Join(" ", array));
 
         // Input
         Console.Write("Enter i: ");

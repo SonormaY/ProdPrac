@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfBuilding xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Building xsi:type="Residental">
+    <Address>Проспект Перемоги 10</Address>
+    <Stories>6</Stories>
+    <NumOfApartments>50</NumOfApartments>
+  </Building>
+  <Building xsi:type="Administrative">
+    <Address>Вулиця Саксаганського 1</Address>
+    <Stories>7</Stories>
+    <Organization>Міська рада</Organization>
+  </Building>
+  <Building xsi:type="Residental">
+    <Address>Проспект Соборності 10</Address>
+    <Stories>8</Stories>
+    <NumOfApartments>50</NumOfApartments>
+  </Building>
+  <Building xsi:type="Administrative">
+    <Address>Вулиця Хрещатик 1</Address>
+    <Stories>10</Stories>
+    <Organization>Міська рада</Organization>
+  </Building>
+</ArrayOfBuilding>

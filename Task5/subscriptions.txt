@@ -1,0 +1,15 @@
+Magazine A,Publisher X,12443,19.99
+Journal B,Publishing House Y,564645,39.95
+Newspaper C,News Corp,23456,79.50
+Tech Weekly,Tech Publications,78901,24.99
+Lifestyle Monthly,Lifestyle Media,45645,15.75
+Business Quarterly,Business Press,688687,99.00
+Sports Illustrated,Sports Media Group,7567,29.95
+Cooking Delights,Culinary Publications,89012,18.50  
+Travel Adventures,Travel Press,12345,35.99
+Home & Garden,Home Media Inc,67877,22.75
+Automotive News,Auto Publications,545768,49.95
+Health & Fitness,Wellness Media,15224,27.50
+Parenting Today,Family Press,34567,16.99
+Photography World,Photo Publications,56789,39.99
+Science Digest,Scientific Society,67890,55.00

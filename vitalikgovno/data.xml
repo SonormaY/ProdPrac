@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfZaklad xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Zaklad xsi:type="University">
+    <Name>LNU</Name>
+    <Address>Univer1</Address>
+    <Phone>0878278822</Phone>
+    <Students>1000</Students>
+    <Professors>100</Professors>
+    <Faculties>5</Faculties>
+  </Zaklad>
+  <Zaklad xsi:type="University">
+    <Name>Politeh</Name>
+    <Address>Bebr7</Address>
+    <Phone>09274929847</Phone>
+    <Students>1020</Students>
+    <Professors>101</Professors>
+    <Faculties>2</Faculties>
+  </Zaklad>
+  <Zaklad xsi:type="School">
+    <Name>Liceum</Name>
+    <Address>Karola2</Address>
+    <Phone>0978291822</Phone>
+    <Pupils>500</Pupils>
+    <Teachers>10</Teachers>
+  </Zaklad>
+</ArrayOfZaklad>
